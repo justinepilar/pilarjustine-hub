@@ -16,16 +16,8 @@
 
 <div align="center">
 
+<img src="https://github.com/user-attachments/assets/56386453-c26d-4fa0-bb13-d40a0bb55f98" width="400" alt="Justine Photo 1"/>
 
-
-
-
-![1 jpg](https://github.com/user-attachments/assets/56386453-c26d-4fa0-bb13-d40a0bb55f98)
-![4 jpg](https://github.com/user-attachments/assets/0bd05dc4-c371-44bd-857d-e8b8a3e8329a)
-
-
-</div>
-  
-
+<img src="https://github.com/user-attachments/assets/0bd05dc4-c371-44bd-857d-e8b8a3e8329a" width="400" alt="Justine Photo 2"/>
 
 </div>
