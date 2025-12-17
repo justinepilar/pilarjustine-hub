@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Justine Adame Pilar
+# Hi there 👋, I'm Justine Adame Pilar (cute)
 
 ---
 
